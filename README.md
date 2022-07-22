@@ -13,7 +13,7 @@
 
 ## :sassy_man:  About me
 - :technologist: I love building `Frameworks` and using other `Programming Languages`.
-- :computer: I am a Rustacean Developer and Reverse Enginner.
+- :computer: I am a Rustacean Developer and Reverse Engineer.
 - :student: I’m currently learning: `OSInt` and `Software Engineering`.
 - :nerd_face: Always `learning new things`.
 
