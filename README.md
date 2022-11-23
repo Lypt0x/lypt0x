@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Lypt0x?tab=repositories](https://github.com/Lypt0x?tab=repositories)
 
-- 📝 I regularly write articles on [https://lypt0x.dev](https://lypt0x.dev)
+- 📝 I regularly write articles on [https://lypt0x.dev](https://lypt0x.dev) (currently unavailable)
 
 - 💬 Ask me about **System Programming, Reverse Engineering or Open Source Intelligence**
 
